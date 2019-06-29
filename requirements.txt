@@ -1,0 +1,6 @@
+
+# `pip install -r requirements.txt` before you run this package
+
+
+python == 3.5.6
+flask == 0.12.2
